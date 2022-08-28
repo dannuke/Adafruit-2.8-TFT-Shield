@@ -32,6 +32,8 @@
 //  LCD D5 connects to digital pin 5
 //  LCD D6 connects to digital pin 6
 //  LCD D7 connects to digital pin 7
+// For the Arduino Mega, use digital pins 22 through 29
+// (on the 2-row header at the end of the board).
 
 //analog pin connections
 //blank connects to A5
@@ -46,8 +48,7 @@
 //LCD 5V connects to 5V
 //3V3 connects to 3.3V
 
-// For the Arduino Mega, use digital pins 22 through 29
-// (on the 2-row header at the end of the board).
+
 
 // Assign human-readable names to some common 16-bit color values:
 #define	BLACK   0x0000
