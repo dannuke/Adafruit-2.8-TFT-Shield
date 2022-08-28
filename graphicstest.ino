@@ -34,11 +34,12 @@
 //  LCD D7 connects to digital pin 7
 
 //analog pin connections
-//LCD_RST connects to A5
-//LCD_CS connects to
-//LCD_RS connects to
-//LCD?WR connects to
-//lCD_RD connects to
+//blank connects to A5
+//LCD_RST connects to A4
+//LCD_CS connects to A3
+//LCD_RS connects to A2
+//LCD-WR connects to A1
+//LCD_RD connects to A0
 //blank connects to VIN
 //LCD GND connects to GND
 //blank connects to GND
